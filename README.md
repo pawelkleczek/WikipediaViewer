@@ -9,5 +9,6 @@ Wikipedia Viewer API is a raw, straightforward tool for search querying Wikipedi
 
 ![alt tag](images/query_example.png)
 
+
 Check it out on CodePen:
 http://codepen.io/pawelkleczek/full/XpLZOq/
