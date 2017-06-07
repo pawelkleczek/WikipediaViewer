@@ -1,7 +1,7 @@
 /* https://en.wikipedia.org/w/api.php?action=query&format=jsonfm&list=search&srsearch= */
 
 $( "form" ).submit(function( event ) {
-
+	event.preventDefault();
   $(".1").html("<br>");
 
   var input = $("#duu").val();
